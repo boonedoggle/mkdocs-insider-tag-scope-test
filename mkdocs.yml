@@ -16,7 +16,4 @@ nav:
       - Section_B/Page_3.md
 
 plugins:
-  - tags:
-      listings_map:
-        scoped:
-          scope: true
+  - tags
