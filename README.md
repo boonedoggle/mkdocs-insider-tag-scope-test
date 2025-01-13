@@ -1,0 +1,1 @@
+# mkdocs-insider-tag-scope-test
