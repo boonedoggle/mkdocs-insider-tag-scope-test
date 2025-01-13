@@ -1,0 +1,2 @@
+mkdocs==1.6.1
+mkdocs-material @ git+https://${GH_TOKEN}@github.com/deepwavedigital/mkdocs-material-insiders.git@3358a2b # this is hash for version 9.5.49

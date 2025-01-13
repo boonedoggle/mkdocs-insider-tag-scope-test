@@ -1,0 +1,22 @@
+site_name: Tag Test Site
+
+theme:
+  name: 'material'
+  features:
+    - navigation.indexes
+
+nav:
+  - Home:
+      - index.md
+  - Section A:
+      - Section_A/index.md
+      - Section_A/Page_1.md
+      - Section_A/Page_2.md
+  - Section B:
+      - Section_B/Page_3.md
+
+plugins:
+  - tags:
+      listings_map:
+        scoped:
+          scope: true
